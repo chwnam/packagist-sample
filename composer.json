@@ -1,0 +1,15 @@
+{
+    "name": "changwoo/packagist-sample",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "changwoo",
+            "email": "ep6tri@hotmail.com",
+            "role": "developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
+
