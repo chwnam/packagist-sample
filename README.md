@@ -1,0 +1,2 @@
+# packagist-sample
+Packagist sample.
